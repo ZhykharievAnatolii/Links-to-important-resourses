@@ -7,3 +7,4 @@ https://www.javascripttutorial.net/
 http://software.hixie.ch/utilities/js/live-dom-viewer/ about how changes DOM
 https://http.cat/- info about answers from request to server
 https://www.postman.com/- application about requests
+https://axios-http.com/- Axios is a promise-based HTTP Client for node.js and the browser
