@@ -11,4 +11,5 @@ https://axios-http.com/- Axios is a promise-based HTTP Client for node.js and th
 https://www.fastify.io/-it is one of the fastest web frameworks in town.
 https://jquery.com/jQuery is a fast, small, and feature-rich JavaScript library
 Dependatabot Github- a simple bot for searching new library updates
+https://www.npmjs.com/-the world's largest software registry
 Volta- 
