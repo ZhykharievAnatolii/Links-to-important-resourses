@@ -13,3 +13,4 @@ https://jquery.com/jQuery is a fast, small, and feature-rich JavaScript library
 Dependatabot Github- a simple bot for searching new library updates
 https://www.npmjs.com/-the world's largest software registry
 https://www.postman.com/-Postman is an API platform for building and using APIs
+https://www.themoviedb.org/documentation/api/status-codes
