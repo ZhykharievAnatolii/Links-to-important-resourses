@@ -15,3 +15,4 @@ https://www.npmjs.com/-the world's largest software registry
 https://www.postman.com/-Postman is an API platform for building and using APIs
 https://www.themoviedb.org/documentation/api/status-codes
 https://expressjs.com/-web framework for Node.js
+https://www.digitalocean.com/-Host websites with the simplest cloud hosting platform
