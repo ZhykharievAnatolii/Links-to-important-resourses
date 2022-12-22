@@ -19,3 +19,4 @@ https://www.digitalocean.com/-Host websites with the simplest cloud hosting plat
 https://www.postgresql.org/-Open Source Relational Database
 node.bcrypt.js-A library to help you hash passwords.
 jsonwebtoken-This is an Internet Standards Track document.JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
+https://jwt.io/ - JWT.IO allows you to decode, verify and generate JWT.
