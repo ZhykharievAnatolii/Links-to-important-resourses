@@ -17,3 +17,4 @@ https://www.themoviedb.org/documentation/api/status-codes
 https://expressjs.com/-web framework for Node.js
 https://www.digitalocean.com/-Host websites with the simplest cloud hosting platform
 https://www.postgresql.org/-Open Source Relational Database
+node.bcrypt.js-A library to help you hash passwords.
