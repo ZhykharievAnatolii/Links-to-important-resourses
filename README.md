@@ -21,3 +21,4 @@ node.bcrypt.js-A library to help you hash passwords.
 jsonwebtoken-This is an Internet Standards Track document.JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
 https://jwt.io/ - JWT.IO allows you to decode, verify and generate JWT.
 https://auth0.com/-Secure access
+https://webpack.js.org/-is a static module bundler for modern JavaScript applications.
