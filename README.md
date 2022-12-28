@@ -22,3 +22,4 @@ jsonwebtoken-This is an Internet Standards Track document.JSON Web Token (JWT) i
 https://jwt.io/ - JWT.IO allows you to decode, verify and generate JWT.
 https://auth0.com/-Secure access
 https://webpack.js.org/-is a static module bundler for modern JavaScript applications.
+https://browsersync.io/-Time-saving synchronised browser testing
