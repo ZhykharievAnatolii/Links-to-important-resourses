@@ -1,5 +1,4 @@
 # Links-to-important-resourses
-
 https://jsdoc.app/                learn about js docs
 https://learn.javascript.ru/       learning JavaScript
 https://ohshitgit.com/            cool info about Github
@@ -24,3 +23,4 @@ https://auth0.com/-Secure access
 https://webpack.js.org/-is a static module bundler for modern JavaScript applications.
 https://browsersync.io/-Time-saving synchronised browser testing
 https://babeljs.io/ - Babel is a JavaScript compiler
+https://ajv.js.org/ - Ajv JSON schema validator
