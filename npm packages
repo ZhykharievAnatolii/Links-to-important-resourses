@@ -1,2 +1,3 @@
 prettier -Opinionated Code Formatter
-nodemon  -
+nodemon  - auto reload
+validator- validate library, mb for check email
