@@ -1,3 +1,4 @@
 prettier -Opinionated Code Formatter
 nodemon  - auto reload
 validator- validate library, mb for check email
+axios- Promise based HTTP client for the browser and node.js
