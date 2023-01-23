@@ -5,3 +5,4 @@ axios- Promise based HTTP client for the browser and node.js
 date-fns -provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
 prop-types- Runtime type checking for React props and similar objects.
 @faker-js/faker Faker tries to generate realistic data and not obvious fake data.
+nano-id Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee
