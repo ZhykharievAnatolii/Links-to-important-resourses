@@ -26,3 +26,4 @@ https://babeljs.io/ - Babel is a JavaScript compiler
 https://ajv.js.org/ - Ajv JSON schema validator
 https://date-fns.org/- Modern JavaScript date utility library
 https://gitlab.com/-an open source end-to-end software development platform with built-in version control, issue tracking, code review 
+https://www.netlify.com/ The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web
