@@ -6,3 +6,4 @@ date-fns -provides the most comprehensive, yet simple and consistent toolset for
 prop-types- Runtime type checking for React props and similar objects.
 @faker-js/faker Faker tries to generate realistic data and not obvious fake data.
 nano-id Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee
+https://www.npmjs.com/package/uuid - To create a random UUID...
