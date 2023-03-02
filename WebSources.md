@@ -29,3 +29,4 @@ https://gitlab.com/-an open source end-to-end software development platform with
 https://www.netlify.com/ The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web
 https://githowto.com/  
 https://wordpress.com/site-editor/nekijt87.wordpress.com
+https://web.archive.org/web/20221025084508/http://mathhelpplanet.com/static.php?p=javascript-algoritmy-poiska- about algorithms of JavaScript
